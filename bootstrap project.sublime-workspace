@@ -1,0 +1,424 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"new_position"
+			],
+			[
+				"admin",
+				"admin_user"
+			],
+			[
+				"Admin",
+				"AdminUser"
+			],
+			[
+				"auth",
+				"authorized_user"
+			],
+			[
+				"val",
+				"validates_presence_of"
+			],
+			[
+				"va",
+				"validates_length_of"
+			],
+			[
+				"conten",
+				"content_type"
+			],
+			[
+				"page",
+				"page_id"
+			],
+			[
+				"Page",
+				"page"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"admin_",
+				"admin_users_pages"
+			],
+			[
+				"city",
+				"city"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "html.erb",
+			"settings":
+			{
+				"buffer_size": 7203,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/customstyles.css",
+			"settings":
+			{
+				"buffer_size": 367,
+				"line_ending": "Windows",
+				"name": "@import url(\"bootstrap.min.css\");"
+			}
+		}
+	],
+	"build_system": "Packages/Ruby/Ruby.sublime-build",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lee/Bootstrap project/html.erb2",
+		"/C/Users/Lee/Bootstrap project/html.erb",
+		"/C/Users/Lee/AppData/Roaming/Sublime Text 2/Packages/User/untitled.sublime-build",
+		"/C/Users/Lee/bootstrap-datepicker-master/docs/new.html.erb",
+		"/C/Users/Lee/Desktop/Bootstrap project/html.erb",
+		"/C/Users/Lee/Desktop/Bootstrap project/css/bootstrap.min.css",
+		"/C/Users/Lee/Desktop/Bootstrap project/css/bootstrap.css",
+		"/C/Users/Lee/simple_cms - Copy/public/index_default.html",
+		"/C/Users/Lee/simple_cms/app/views/sections/_form.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/images/_form.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/images/list.html.erb",
+		"/C/Users/Lee/simple_cms/app/controllers/images_controller.rb",
+		"/C/Users/Lee/simple_cms/app/views/layouts/admin.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/images/new.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/pages/list.html.erb",
+		"/C/Users/Lee/simple_cms/app/controllers/admin_users_controller.rb",
+		"/C/Users/Lee/simple_cms/app/views/subjects/list.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/images/Images",
+		"/C/Users/Lee/simple_cms/app/models/image.rb",
+		"/C/Users/Lee/simple_cms/app/controllers/access_controller.rb",
+		"/C/Users/Lee/simple_cms/app/views/access/menu.html.erb",
+		"/C/Users/Lee/simple_cms/app/controllers/subjects_controller.rb",
+		"/C/Users/Lee/simple_cms/app/views/images/show.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/images/edit.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/images/delete.html.erb",
+		"/C/Users/Lee/simple_cms/app/controllers/pages_controller.rb",
+		"/C/Users/Lee/simple_cms/db/migrate/20131128105850_add_images.rb",
+		"/C/Users/Lee/simple_cms/db/migrate/20130917111900_create_sections.rb",
+		"/C/Users/Lee/simple_cms/app/views/pages/Images",
+		"/C/Users/Lee/simple_cms/app/models/page.rb",
+		"/C/Users/Lee/simple_cms/app/views/admin_users/delete.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/sections/show.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/sections/new.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/sections/edit.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/sections/delete.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/sections/list.html.erb",
+		"/C/Users/Lee/simple_cms/app/controllers/sections_controller.rb",
+		"/C/Users/Lee/simple_cms/app/models/section.rb",
+		"/C/Users/Lee/simple_cms/app/views/admin_users/list.html.erb",
+		"/C/Users/Lee/simple cms 2/app/views/subjects/show.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/subjects/show.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/pages/show.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/public/show.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/layouts/public.html.erb",
+		"/C/Users/Lee/simple_cms/public/stylesheets/public.css",
+		"/C/Users/Lee/simple_cms/config/application.rb",
+		"/C/Users/Lee/simple_cms/config/environments/production.rb",
+		"/C/Users/Lee/simple_cms/config/environments/development.rb",
+		"/C/Users/Lee/simple_cms/app/controllers/demo_controller.rb",
+		"/C/Users/Lee/simple_cms/app/views/layouts/application.html.erb",
+		"/C/Users/Lee/simple_cms/app/models/subject.rb",
+		"/C/Users/Lee/simple_cms/app/views/layouts/_navigation.html.erb",
+		"/C/Users/Lee/simple_cms/app/controllers/public_controller.rb",
+		"/C/Users/Lee/simple_cms/config/routes.rb",
+		"/C/Users/Lee/simple_cms/app/views/public/index.html.erb",
+		"/C/Users/Lee/simple_cms/lib/position_mover.rb",
+		"/C/Users/Lee/simple_cms/app/models/section_edit.rb",
+		"/C/Users/Lee/simple_cms/app/views/pages/_form.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/pages/delete.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/pages/new.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/pages/edit.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/admin_users/new.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/admin_users/_form.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/admin_users/edit.html.erb",
+		"/C/Users/Lee/simple_cms/app/models/admin_user.rb",
+		"/C/Users/Lee/simple_cms/app/controllers/application_controller.rb",
+		"/C/Users/Lee/simple_cms/app/views/access/login.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/demo/escape_output.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/subjects/_form.html.erb",
+		"/C/Users/Lee/simple_cms/app/helpers/application_helper.rb",
+		"/C/Users/Lee/simple_cms/app/views/shared/_error_messages.html.erb",
+		"/C/Users/Lee/simple_cms/Gemfile.lock",
+		"/C/Users/Lee/simple_cms/config/database.yml",
+		"/C/Users/Lee/simple_cms/db/migrate/20130917111807_create_subjects.rb",
+		"/C/Users/Lee/simple_cms/db/migrate/20130917111845_create_pages.rb",
+		"/C/Users/Lee/simple_cms/app/views/subjects/edit.html.erb",
+		"/C/Users/Lee/simple_cms/db/migrate/20130927092518_create_section_edits.rb",
+		"/C/Users/Lee/simple_cms/app/views/demo/hello.html.erb",
+		"/C/Users/Lee/simple_cms/app/helpers/pages_helper.rb",
+		"/C/Users/Lee/simple_cms/db/schema.rb",
+		"/C/Users/Lee/simple_cms/app/assets/stylesheets/demo.css.scss",
+		"/C/Users/Lee/simple_cms/app/helpers/subjects_helper.rb",
+		"/C/Users/Lee/simple_cms/public/stylesheets/admin.css",
+		"/C/Users/Lee/simple_cms/app/assets/stylesheets/application.css",
+		"/C/Users/Lee/simple_cms/public/images/rails.png",
+		"/C/Users/Lee/simple_cms/public/images/images.png",
+		"/C/Users/Lee/simple_cms/Gemfile",
+		"/C/Users/Lee/simple_cms/app/views/demo/text_helpers.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/demo/index.html.erb",
+		"/C/Users/Lee/simple_cms/app/assets/images/rails.png",
+		"/C/Users/Lee/simple_cms/public/rails.png",
+		"/C/Users/Lee/simple_cms/app/views/demo/javascript.html.erb",
+		"/C/Users/Lee/simple_cms/app/assets/javascripts/application.js",
+		"/C/Users/Lee/simple_cms/app/views/subjects/new.html.erb",
+		"/C/Users/Lee/simple_cms/app/views/subjects/delete.html.erb",
+		"/C/Users/Lee/simple_cms/public/demo/test.html",
+		"/C/Users/Lee/simple_cms/public/index.html",
+		"/C/Users/Lee/simple_cms/public/indexdefault.html",
+		"/C/Users/Lee/simple_cms/db/migrate/20130913134927_create_users.rb",
+		"/C/Users/Lee/simple_cms/config.ru",
+		"/C/Users/Lee/simple_cms/public/robots.txt",
+		"/C/Users/Lee/simple_cms/db/migrate/20130917101831_alter_users.rb",
+		"/C/Users/Lee/simple_cms/public/500.html",
+		"/C/Users/Lee/simple_cms/db/migrate/20130913134401_do_nothing_yet.rb",
+		"/C/Users/Lee/simple_cms/db/migrate/20130924114109_add_name_to_products.rb",
+		"/C/Users/Lee/simple_cms/db/migrate/20130927103828_create_admin_users_pagesjoin.rb",
+		"/C/Users/Lee/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Lee/simple_cms/simple_cms.sublime-workspace",
+		"/C/Users/Lee/Desktop/food_finder/lib/guide.rb",
+		"/C/Users/Lee/Documents/simple_cms/config/database.yml",
+		"/C/Users/Lee/Documents/simple_cms/Gemfile",
+		"/C/Users/Lee/Desktop/food_finder/lib/support/number_helper.rb",
+		"/C/Users/Lee/Desktop/food_finder/init.rb",
+		"/C/Users/Lee/Desktop/food_finder/lib/restaurant.rb",
+		"/C/Users/Lee/Desktop/food_finder - with City/food_find - with City.sublime-workspace",
+		"/C/Users/Lee/Desktop/food_finder/support/number_helper.rb",
+		"/C/Users/Lee/Desktop/food_finder/food.sublime-workspace",
+		"/C/Users/Lee/Desktop/food_finder/food.sublime-project",
+		"/C/Users/Lee/Desktop/food_finder/support/string_extend.rb",
+		"/C/Users/Lee/work/demo/app/assets/stylesheets/application.css",
+		"/C/Users/Lee/work/demo/Gemfile",
+		"/C/Users/Lee/work/demo/app/controllers/say_controller.rb",
+		"/C/Users/Lee/Desktop/food_finder/guide.rb",
+		"/C/Users/Lee/Desktop/Ruby sandbox/methods.rb",
+		"/C/Users/Lee/Desktop/Ruby sandbox/test.rb",
+		"/C/Users/Lee/AppData/Local/Temp/Temp1_mysql2-master.zip/mysql2-master/lib/mysql2/version.rb",
+		"/C/RailsInstaller/Ruby1.9.3/lib/ruby/gems/1.9.1/gems/mysql2-0.3.12b6/ext/mysql2/extconf.rb"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"section",
+			"Section",
+			"section",
+			"Section",
+			"section",
+			"page",
+			"Page",
+			"page",
+			"!\" ",
+			"outpit"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"image",
+			"Image",
+			"image"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "html.erb",
+					"settings":
+					{
+						"buffer_size": 7203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								16
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/customstyles.css",
+					"settings":
+					{
+						"buffer_size": 367,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"auto_name": "@import url(\"bootstrap.min.css\");",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 191.0,
+	"status_bar_visible": true
+}
